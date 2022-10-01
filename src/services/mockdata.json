@@ -1,0 +1,2002 @@
+[
+    {
+      "collection": {
+        "id": "63387dac8272503168ac7567",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red drop-top",
+        "url": "localhost/suggestion/red-drop-top"
+      },
+      "product": {
+        "id": "63387dacc024a92507e27e04",
+        "title": "eiusmod anim aute Tops",
+        "url": "localhost/products/detail/63387dacc024a92507e27e04",
+        "brand": "fendi",
+        "price": "$73.42",
+        "image": "https://source.unsplash.com/random/200x200?sig=40"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac92a9d343a08b2fec",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dac1590f2e81a1dedab",
+        "title": "est labore Jeans",
+        "url": "localhost/products/detail/63387dac1590f2e81a1dedab",
+        "brand": "fendi",
+        "price": "$20.94",
+        "image": "https://source.unsplash.com/random/200x200?sig=80"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacf9848c562ffae02a",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dacd221a64f567cb712",
+        "title": "veniam aliqua Intimates",
+        "url": "localhost/products/detail/63387dacd221a64f567cb712",
+        "brand": "cartier",
+        "price": "$49.03",
+        "image": "https://source.unsplash.com/random/200x200?sig=57"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daca9387d7ae3ae117e",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver dress",
+        "url": "localhost/suggestion/silver-dress"
+      },
+      "product": {
+        "id": "63387daca90a2ec6dd098475",
+        "title": "ipsum ut Intimates",
+        "url": "localhost/products/detail/63387daca90a2ec6dd098475",
+        "brand": "cartier",
+        "price": "$57.92",
+        "image": "https://source.unsplash.com/random/200x200?sig=52"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac2b0298aefc4f7b8f",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dac65318997ae15e9cd",
+        "title": "dolor exercitation veniam veniam Autumn",
+        "url": "localhost/products/detail/63387dac65318997ae15e9cd",
+        "brand": "zara",
+        "price": "$19.58",
+        "image": "https://source.unsplash.com/random/200x200?sig=10"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac5a0ef9d24963f491",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dacde84093dd6a6e596",
+        "title": "est excepteur Autumn",
+        "url": "localhost/products/detail/63387dacde84093dd6a6e596",
+        "brand": "hermes",
+        "price": "$67.19",
+        "image": "https://source.unsplash.com/random/200x200?sig=26"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace6565419036b62c8",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dac7738ddbc4f2a0d9c",
+        "title": "do amet Dresses",
+        "url": "localhost/products/detail/63387dac7738ddbc4f2a0d9c",
+        "brand": "uniqlo",
+        "price": "$59.1",
+        "image": "https://source.unsplash.com/random/200x200?sig=5"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac661a323e661182c0",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red drop-top",
+        "url": "localhost/suggestion/red-drop-top"
+      },
+      "product": {
+        "id": "63387dac7c19266ebcc7dc26",
+        "title": "est voluptate proident ullamco Dresses",
+        "url": "localhost/products/detail/63387dac7c19266ebcc7dc26",
+        "brand": "zara",
+        "price": "$73.89",
+        "image": "https://source.unsplash.com/random/200x200?sig=29"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac4028e29f9076b04f",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387dacbb8169d654f39ce6",
+        "title": "aliqua duis anim dolore Tops",
+        "url": "localhost/products/detail/63387dacbb8169d654f39ce6",
+        "brand": "hermes",
+        "price": "$25.94",
+        "image": "https://source.unsplash.com/random/200x200?sig=35"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac494bea4549c8ab19",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dacfcf3a57c19653a5f",
+        "title": "adipisicing ipsum Dresses",
+        "url": "localhost/products/detail/63387dacfcf3a57c19653a5f",
+        "brand": "fendi",
+        "price": "$69.71",
+        "image": "https://source.unsplash.com/random/200x200?sig=29"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1ac8349c2ee83453",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dac7f19ff02ebee6902",
+        "title": "exercitation dolor Tops",
+        "url": "localhost/products/detail/63387dac7f19ff02ebee6902",
+        "brand": "hermes",
+        "price": "$56.23",
+        "image": "https://source.unsplash.com/random/200x200?sig=70"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacc626f95179163d84",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green t-shirt",
+        "url": "localhost/suggestion/green-t-shirt"
+      },
+      "product": {
+        "id": "63387dac46b37d1b8a2e51bc",
+        "title": "voluptate enim Tops",
+        "url": "localhost/products/detail/63387dac46b37d1b8a2e51bc",
+        "brand": "cartier",
+        "price": "$31.83",
+        "image": "https://source.unsplash.com/random/200x200?sig=27"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace79a86afc9420efb",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac61241980ae47d4c1",
+        "title": "quis ullamco deserunt Intimates",
+        "url": "localhost/products/detail/63387dac61241980ae47d4c1",
+        "brand": "hermes",
+        "price": "$44.15",
+        "image": "https://source.unsplash.com/random/200x200?sig=14"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1d198bd8c8b1040a",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black long",
+        "url": "localhost/suggestion/black-long"
+      },
+      "product": {
+        "id": "63387dac8e3e206b20776dfd",
+        "title": "aliqua fugiat nostrud labore Dresses",
+        "url": "localhost/products/detail/63387dac8e3e206b20776dfd",
+        "brand": "uniqlo",
+        "price": "$46.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=43"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac2e9c49c10eae7efa",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dacda857e15f8968191",
+        "title": "duis laborum esse nostrud Intimates",
+        "url": "localhost/products/detail/63387dacda857e15f8968191",
+        "brand": "fendi",
+        "price": "$41.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=86"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacee2ca40c9ebd609a",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green t-shirt",
+        "url": "localhost/suggestion/green-t-shirt"
+      },
+      "product": {
+        "id": "63387dac6283254259095b70",
+        "title": "eu in amet Jeans",
+        "url": "localhost/products/detail/63387dac6283254259095b70",
+        "brand": "zara",
+        "price": "$30.2",
+        "image": "https://source.unsplash.com/random/200x200?sig=38"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac4c7a33bddfe02482",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dac3448f2acec6ea506",
+        "title": "pariatur mollit consectetur officia Dresses",
+        "url": "localhost/products/detail/63387dac3448f2acec6ea506",
+        "brand": "hermes",
+        "price": "$22.67",
+        "image": "https://source.unsplash.com/random/200x200?sig=43"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac91e2c95c89ef1494",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dac3b759b401b8521ff",
+        "title": "sunt veniam Tops",
+        "url": "localhost/products/detail/63387dac3b759b401b8521ff",
+        "brand": "zara",
+        "price": "$20.62",
+        "image": "https://source.unsplash.com/random/200x200?sig=13"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac7c162a844b808125",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387dac38213301df88577d",
+        "title": "voluptate pariatur proident Autumn",
+        "url": "localhost/products/detail/63387dac38213301df88577d",
+        "brand": "fendi",
+        "price": "$48.68",
+        "image": "https://source.unsplash.com/random/200x200?sig=10"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac7f0f244bbcc6a35f",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dacf777d9fc29c4d180",
+        "title": "exercitation veniam voluptate nulla Intimates",
+        "url": "localhost/products/detail/63387dacf777d9fc29c4d180",
+        "brand": "uniqlo",
+        "price": "$11.11",
+        "image": "https://source.unsplash.com/random/200x200?sig=38"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac3b2617356f8093c0",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green long",
+        "url": "localhost/suggestion/green-long"
+      },
+      "product": {
+        "id": "63387dac7847b87df0e9b11b",
+        "title": "cupidatat adipisicing do consectetur Jeans",
+        "url": "localhost/products/detail/63387dac7847b87df0e9b11b",
+        "brand": "uniqlo",
+        "price": "$51.48",
+        "image": "https://source.unsplash.com/random/200x200?sig=70"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacedc00e410e05504f",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green t-shirt",
+        "url": "localhost/suggestion/green-t-shirt"
+      },
+      "product": {
+        "id": "63387dacc9911140964fdd22",
+        "title": "est consectetur Jeans",
+        "url": "localhost/products/detail/63387dacc9911140964fdd22",
+        "brand": "uniqlo",
+        "price": "$61.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=69"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac0c38010620141036",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387dac29f30eda31122a7e",
+        "title": "do cillum cupidatat Autumn",
+        "url": "localhost/products/detail/63387dac29f30eda31122a7e",
+        "brand": "zara",
+        "price": "$12.15",
+        "image": "https://source.unsplash.com/random/200x200?sig=25"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacbcff50e18ba5f518",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue t-shirt",
+        "url": "localhost/suggestion/blue-t-shirt"
+      },
+      "product": {
+        "id": "63387dace87eb3e15abbc431",
+        "title": "esse eu nisi enim Dresses",
+        "url": "localhost/products/detail/63387dace87eb3e15abbc431",
+        "brand": "zara",
+        "price": "$32.17",
+        "image": "https://source.unsplash.com/random/200x200?sig=52"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daca522b1704e0f2a37",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387daca984be688c0c5842",
+        "title": "nostrud labore amet Intimates",
+        "url": "localhost/products/detail/63387daca984be688c0c5842",
+        "brand": "hermes",
+        "price": "$20.95",
+        "image": "https://source.unsplash.com/random/200x200?sig=56"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac53d0c3c33c959e8c",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red drop-top",
+        "url": "localhost/suggestion/red-drop-top"
+      },
+      "product": {
+        "id": "63387dac0f79bdeb9946c4e0",
+        "title": "exercitation magna Autumn",
+        "url": "localhost/products/detail/63387dac0f79bdeb9946c4e0",
+        "brand": "fendi",
+        "price": "$44.19",
+        "image": "https://source.unsplash.com/random/200x200?sig=61"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace8488763c955000c",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver long",
+        "url": "localhost/suggestion/silver-long"
+      },
+      "product": {
+        "id": "63387dacd5b116be1c1bb859",
+        "title": "quis cupidatat excepteur veniam Tops",
+        "url": "localhost/products/detail/63387dacd5b116be1c1bb859",
+        "brand": "fendi",
+        "price": "$40.55",
+        "image": "https://source.unsplash.com/random/200x200?sig=80"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1f7b4a39bb1056f5",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue long",
+        "url": "localhost/suggestion/blue-long"
+      },
+      "product": {
+        "id": "63387dac9ab0d4eb3de64022",
+        "title": "id eu est id Dresses",
+        "url": "localhost/products/detail/63387dac9ab0d4eb3de64022",
+        "brand": "uniqlo",
+        "price": "$57.98",
+        "image": "https://source.unsplash.com/random/200x200?sig=68"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac5b1133148fb5f6f7",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dacb9ec6ba5a9950b60",
+        "title": "voluptate duis Jeans",
+        "url": "localhost/products/detail/63387dacb9ec6ba5a9950b60",
+        "brand": "uniqlo",
+        "price": "$74.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=49"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac9d7f8d11890eb094",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dacddf731e6d2d2765e",
+        "title": "esse tempor irure Intimates",
+        "url": "localhost/products/detail/63387dacddf731e6d2d2765e",
+        "brand": "hermes",
+        "price": "$61.6",
+        "image": "https://source.unsplash.com/random/200x200?sig=77"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac2a9d36935f9eca0e",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green long",
+        "url": "localhost/suggestion/green-long"
+      },
+      "product": {
+        "id": "63387dac1e8b7ae450b80ac6",
+        "title": "aliquip ut nostrud Autumn",
+        "url": "localhost/products/detail/63387dac1e8b7ae450b80ac6",
+        "brand": "cartier",
+        "price": "$12",
+        "image": "https://source.unsplash.com/random/200x200?sig=39"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac85c75898efcd16b5",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac43982b0600f6d413",
+        "title": "nisi dolor Jeans",
+        "url": "localhost/products/detail/63387dac43982b0600f6d413",
+        "brand": "zara",
+        "price": "$17.62",
+        "image": "https://source.unsplash.com/random/200x200?sig=78"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace286bb313bc73f2b",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dac7056b871b9d2bdbc",
+        "title": "consectetur nulla laborum quis Tops",
+        "url": "localhost/products/detail/63387dac7056b871b9d2bdbc",
+        "brand": "fendi",
+        "price": "$54.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=82"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac3449cac49cb02203",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac144ed791cb380f39",
+        "title": "ut sit nisi occaecat Intimates",
+        "url": "localhost/products/detail/63387dac144ed791cb380f39",
+        "brand": "fendi",
+        "price": "$70.51",
+        "image": "https://source.unsplash.com/random/200x200?sig=56"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacf0b474f6779b9834",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red dress",
+        "url": "localhost/suggestion/red-dress"
+      },
+      "product": {
+        "id": "63387dac13a4d72033f01af5",
+        "title": "reprehenderit officia Jeans",
+        "url": "localhost/products/detail/63387dac13a4d72033f01af5",
+        "brand": "zara",
+        "price": "$14.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=23"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacc53111e1cba990d7",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue t-shirt",
+        "url": "localhost/suggestion/blue-t-shirt"
+      },
+      "product": {
+        "id": "63387dac5db3efdf3fe84dff",
+        "title": "ea enim Autumn",
+        "url": "localhost/products/detail/63387dac5db3efdf3fe84dff",
+        "brand": "fendi",
+        "price": "$71.84",
+        "image": "https://source.unsplash.com/random/200x200?sig=38"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacde08daf7c878c68f",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dacb7a1bbfbe89b15bf",
+        "title": "aliqua exercitation minim occaecat Intimates",
+        "url": "localhost/products/detail/63387dacb7a1bbfbe89b15bf",
+        "brand": "uniqlo",
+        "price": "$49.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=70"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac8616c30e65c54c60",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver long",
+        "url": "localhost/suggestion/silver-long"
+      },
+      "product": {
+        "id": "63387dac99b4ace8fe9c31a3",
+        "title": "excepteur fugiat sunt commodo Intimates",
+        "url": "localhost/products/detail/63387dac99b4ace8fe9c31a3",
+        "brand": "uniqlo",
+        "price": "$16.27",
+        "image": "https://source.unsplash.com/random/200x200?sig=18"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac5bd0dbf8437c54e0",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green t-shirt",
+        "url": "localhost/suggestion/green-t-shirt"
+      },
+      "product": {
+        "id": "63387dac40f54d789f424e0b",
+        "title": "sit velit elit velit Tops",
+        "url": "localhost/products/detail/63387dac40f54d789f424e0b",
+        "brand": "uniqlo",
+        "price": "$16.73",
+        "image": "https://source.unsplash.com/random/200x200?sig=22"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacd3cfd4ff9259415f",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac7d5d976e4b7f2919",
+        "title": "officia sunt nostrud veniam Jeans",
+        "url": "localhost/products/detail/63387dac7d5d976e4b7f2919",
+        "brand": "cartier",
+        "price": "$68.58",
+        "image": "https://source.unsplash.com/random/200x200?sig=74"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1a5907589964b394",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac585cbfe79980ebf7",
+        "title": "dolor consequat Jeans",
+        "url": "localhost/products/detail/63387dac585cbfe79980ebf7",
+        "brand": "fendi",
+        "price": "$46.8",
+        "image": "https://source.unsplash.com/random/200x200?sig=4"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac6c73be0322502867",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black long",
+        "url": "localhost/suggestion/black-long"
+      },
+      "product": {
+        "id": "63387dace4e3c34807276927",
+        "title": "sunt minim sunt Tops",
+        "url": "localhost/products/detail/63387dace4e3c34807276927",
+        "brand": "cartier",
+        "price": "$36.54",
+        "image": "https://source.unsplash.com/random/200x200?sig=7"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac72e40522a6ee71e2",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue t-shirt",
+        "url": "localhost/suggestion/blue-t-shirt"
+      },
+      "product": {
+        "id": "63387dac378a378c9757866b",
+        "title": "consequat velit enim Intimates",
+        "url": "localhost/products/detail/63387dac378a378c9757866b",
+        "brand": "fendi",
+        "price": "$31.84",
+        "image": "https://source.unsplash.com/random/200x200?sig=80"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1d0c5ddcdffe8282",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue long",
+        "url": "localhost/suggestion/blue-long"
+      },
+      "product": {
+        "id": "63387dac670963249d66a7fb",
+        "title": "consectetur elit Tops",
+        "url": "localhost/products/detail/63387dac670963249d66a7fb",
+        "brand": "fendi",
+        "price": "$26.18",
+        "image": "https://source.unsplash.com/random/200x200?sig=86"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac930bc1732ccaca4d",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver dress",
+        "url": "localhost/suggestion/silver-dress"
+      },
+      "product": {
+        "id": "63387dac39f6dda351e98b57",
+        "title": "ad voluptate eu excepteur Intimates",
+        "url": "localhost/products/detail/63387dac39f6dda351e98b57",
+        "brand": "uniqlo",
+        "price": "$36.5",
+        "image": "https://source.unsplash.com/random/200x200?sig=43"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacf93e114dd5d22b77",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac19eb272ff4da83e5",
+        "title": "quis nostrud quis proident Dresses",
+        "url": "localhost/products/detail/63387dac19eb272ff4da83e5",
+        "brand": "hermes",
+        "price": "$42.74",
+        "image": "https://source.unsplash.com/random/200x200?sig=63"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac80be825879299481",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac220fe3a29582f8df",
+        "title": "commodo nostrud Jeans",
+        "url": "localhost/products/detail/63387dac220fe3a29582f8df",
+        "brand": "hermes",
+        "price": "$57.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=81"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1916e777d6f08818",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black drop-top",
+        "url": "localhost/suggestion/black-drop-top"
+      },
+      "product": {
+        "id": "63387dac9045a4e2923668ad",
+        "title": "Lorem nostrud Autumn",
+        "url": "localhost/products/detail/63387dac9045a4e2923668ad",
+        "brand": "zara",
+        "price": "$11.91",
+        "image": "https://source.unsplash.com/random/200x200?sig=24"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac3034b5aa86cdc458",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac0693ca99c400e8a1",
+        "title": "aute nostrud Dresses",
+        "url": "localhost/products/detail/63387dac0693ca99c400e8a1",
+        "brand": "fendi",
+        "price": "$30.54",
+        "image": "https://source.unsplash.com/random/200x200?sig=4"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac84306da41da98cea",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver t-shirt",
+        "url": "localhost/suggestion/silver-t-shirt"
+      },
+      "product": {
+        "id": "63387dac13895cb25f6e6ca9",
+        "title": "dolor ut non dolor Jeans",
+        "url": "localhost/products/detail/63387dac13895cb25f6e6ca9",
+        "brand": "fendi",
+        "price": "$19.9",
+        "image": "https://source.unsplash.com/random/200x200?sig=22"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac3462829ce31e8b47",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue long",
+        "url": "localhost/suggestion/blue-long"
+      },
+      "product": {
+        "id": "63387daca67fce1607a40604",
+        "title": "eiusmod laborum adipisicing Autumn",
+        "url": "localhost/products/detail/63387daca67fce1607a40604",
+        "brand": "uniqlo",
+        "price": "$61.52",
+        "image": "https://source.unsplash.com/random/200x200?sig=59"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacdd0084e5d374ba17",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dacefc99d4d33c46618",
+        "title": "non quis aute labore Tops",
+        "url": "localhost/products/detail/63387dacefc99d4d33c46618",
+        "brand": "uniqlo",
+        "price": "$51.06",
+        "image": "https://source.unsplash.com/random/200x200?sig=10"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1b33b528ba50c32a",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dac6d541619bb84c82f",
+        "title": "qui eiusmod Dresses",
+        "url": "localhost/products/detail/63387dac6d541619bb84c82f",
+        "brand": "zara",
+        "price": "$36.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=5"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac95e614955f1024d9",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver long",
+        "url": "localhost/suggestion/silver-long"
+      },
+      "product": {
+        "id": "63387dac1d832dcd9b10b80b",
+        "title": "dolor commodo ullamco aute Jeans",
+        "url": "localhost/products/detail/63387dac1d832dcd9b10b80b",
+        "brand": "cartier",
+        "price": "$67.74",
+        "image": "https://source.unsplash.com/random/200x200?sig=55"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacb8ad307e6cf3f8ac",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red dress",
+        "url": "localhost/suggestion/red-dress"
+      },
+      "product": {
+        "id": "63387dacfb60fcf3b6653748",
+        "title": "ipsum ipsum Intimates",
+        "url": "localhost/products/detail/63387dacfb60fcf3b6653748",
+        "brand": "zara",
+        "price": "$49.45",
+        "image": "https://source.unsplash.com/random/200x200?sig=26"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac2b5074861e44940e",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dacafd5c9cdbb3ec785",
+        "title": "et consequat Autumn",
+        "url": "localhost/products/detail/63387dacafd5c9cdbb3ec785",
+        "brand": "fendi",
+        "price": "$35.46",
+        "image": "https://source.unsplash.com/random/200x200?sig=32"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac51133d3bd9a45c00",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dacb6b570b79aa52969",
+        "title": "aliqua veniam voluptate excepteur Intimates",
+        "url": "localhost/products/detail/63387dacb6b570b79aa52969",
+        "brand": "uniqlo",
+        "price": "$53.47",
+        "image": "https://source.unsplash.com/random/200x200?sig=71"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacc15697d39f58b178",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver long",
+        "url": "localhost/suggestion/silver-long"
+      },
+      "product": {
+        "id": "63387dac063a1aac4a54dfc5",
+        "title": "in dolor irure Jeans",
+        "url": "localhost/products/detail/63387dac063a1aac4a54dfc5",
+        "brand": "zara",
+        "price": "$35.61",
+        "image": "https://source.unsplash.com/random/200x200?sig=29"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacab975b4861f70c51",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green drop-top",
+        "url": "localhost/suggestion/green-drop-top"
+      },
+      "product": {
+        "id": "63387dac82b7d0896bb4fd49",
+        "title": "duis dolor aliquip laborum Intimates",
+        "url": "localhost/products/detail/63387dac82b7d0896bb4fd49",
+        "brand": "cartier",
+        "price": "$27.67",
+        "image": "https://source.unsplash.com/random/200x200?sig=73"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac914c51c61d574339",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue long",
+        "url": "localhost/suggestion/blue-long"
+      },
+      "product": {
+        "id": "63387dac073813d9a82ff619",
+        "title": "do esse ipsum qui Dresses",
+        "url": "localhost/products/detail/63387dac073813d9a82ff619",
+        "brand": "uniqlo",
+        "price": "$51.58",
+        "image": "https://source.unsplash.com/random/200x200?sig=98"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac0a9e6ea577a0c1d6",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green t-shirt",
+        "url": "localhost/suggestion/green-t-shirt"
+      },
+      "product": {
+        "id": "63387dacc4a40e82180c97c2",
+        "title": "non occaecat anim sint Tops",
+        "url": "localhost/products/detail/63387dacc4a40e82180c97c2",
+        "brand": "hermes",
+        "price": "$73.8",
+        "image": "https://source.unsplash.com/random/200x200?sig=15"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac8c9f19e6739f4ce7",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dac8525bc21591ae3d8",
+        "title": "ex dolor occaecat Dresses",
+        "url": "localhost/products/detail/63387dac8525bc21591ae3d8",
+        "brand": "zara",
+        "price": "$13.04",
+        "image": "https://source.unsplash.com/random/200x200?sig=30"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacce00a43e95996b33",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue dress",
+        "url": "localhost/suggestion/blue-dress"
+      },
+      "product": {
+        "id": "63387dac98180907c39ca834",
+        "title": "est nostrud fugiat ullamco Jeans",
+        "url": "localhost/products/detail/63387dac98180907c39ca834",
+        "brand": "fendi",
+        "price": "$49.87",
+        "image": "https://source.unsplash.com/random/200x200?sig=49"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac07dbbc1bd01a65e3",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red dress",
+        "url": "localhost/suggestion/red-dress"
+      },
+      "product": {
+        "id": "63387dac267e5babd75d4704",
+        "title": "non elit ullamco Jeans",
+        "url": "localhost/products/detail/63387dac267e5babd75d4704",
+        "brand": "cartier",
+        "price": "$78.97",
+        "image": "https://source.unsplash.com/random/200x200?sig=11"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac29c556e214c70fd9",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac1ca20850d0d31521",
+        "title": "laborum voluptate ea nostrud Autumn",
+        "url": "localhost/products/detail/63387dac1ca20850d0d31521",
+        "brand": "zara",
+        "price": "$69.85",
+        "image": "https://source.unsplash.com/random/200x200?sig=53"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac62cb7d426635c1a1",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black drop-top",
+        "url": "localhost/suggestion/black-drop-top"
+      },
+      "product": {
+        "id": "63387dacd8f4d2ef76e03e5a",
+        "title": "et quis aliquip Autumn",
+        "url": "localhost/products/detail/63387dacd8f4d2ef76e03e5a",
+        "brand": "fendi",
+        "price": "$24.14",
+        "image": "https://source.unsplash.com/random/200x200?sig=43"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac91973952b13e1fb7",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver t-shirt",
+        "url": "localhost/suggestion/silver-t-shirt"
+      },
+      "product": {
+        "id": "63387dac7f44ce331dd8b24d",
+        "title": "cupidatat consectetur ullamco dolor Dresses",
+        "url": "localhost/products/detail/63387dac7f44ce331dd8b24d",
+        "brand": "hermes",
+        "price": "$71.79",
+        "image": "https://source.unsplash.com/random/200x200?sig=76"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac60d32833e202a427",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver dress",
+        "url": "localhost/suggestion/silver-dress"
+      },
+      "product": {
+        "id": "63387dacd38e21eb1b010ff8",
+        "title": "do deserunt Tops",
+        "url": "localhost/products/detail/63387dacd38e21eb1b010ff8",
+        "brand": "cartier",
+        "price": "$72.82",
+        "image": "https://source.unsplash.com/random/200x200?sig=61"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac4729c1119b182d02",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387dac36683348aa7e4998",
+        "title": "est culpa nisi elit Dresses",
+        "url": "localhost/products/detail/63387dac36683348aa7e4998",
+        "brand": "hermes",
+        "price": "$64.58",
+        "image": "https://source.unsplash.com/random/200x200?sig=73"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daca1889db01fd3686c",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black dress",
+        "url": "localhost/suggestion/black-dress"
+      },
+      "product": {
+        "id": "63387dac1999db0a19e24bd2",
+        "title": "eu in reprehenderit quis Tops",
+        "url": "localhost/products/detail/63387dac1999db0a19e24bd2",
+        "brand": "hermes",
+        "price": "$11.16",
+        "image": "https://source.unsplash.com/random/200x200?sig=8"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacbf013c0b7ce196bd",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black long",
+        "url": "localhost/suggestion/black-long"
+      },
+      "product": {
+        "id": "63387dacf77a88f461286b00",
+        "title": "irure minim Tops",
+        "url": "localhost/products/detail/63387dacf77a88f461286b00",
+        "brand": "cartier",
+        "price": "$46.24",
+        "image": "https://source.unsplash.com/random/200x200?sig=94"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac414ec1fcae1aa4c9",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dacfccb2a3bd9b00118",
+        "title": "qui pariatur id consequat Intimates",
+        "url": "localhost/products/detail/63387dacfccb2a3bd9b00118",
+        "brand": "zara",
+        "price": "$58.68",
+        "image": "https://source.unsplash.com/random/200x200?sig=73"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daca2916d287461638e",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dac199e7059ed326744",
+        "title": "nulla laborum anim Dresses",
+        "url": "localhost/products/detail/63387dac199e7059ed326744",
+        "brand": "hermes",
+        "price": "$39.91",
+        "image": "https://source.unsplash.com/random/200x200?sig=27"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacfcae729e60a08836",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver t-shirt",
+        "url": "localhost/suggestion/silver-t-shirt"
+      },
+      "product": {
+        "id": "63387dacc74783b37c1fa485",
+        "title": "deserunt mollit cillum aute Intimates",
+        "url": "localhost/products/detail/63387dacc74783b37c1fa485",
+        "brand": "cartier",
+        "price": "$44.79",
+        "image": "https://source.unsplash.com/random/200x200?sig=30"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac9aa5ff97217be3c1",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387daccd1ce57ab791e3df",
+        "title": "officia labore exercitation Intimates",
+        "url": "localhost/products/detail/63387daccd1ce57ab791e3df",
+        "brand": "fendi",
+        "price": "$22.16",
+        "image": "https://source.unsplash.com/random/200x200?sig=68"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac9f416b05a428eafc",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue long",
+        "url": "localhost/suggestion/blue-long"
+      },
+      "product": {
+        "id": "63387dac3c0ddcecc31f3289",
+        "title": "velit commodo eu ut Intimates",
+        "url": "localhost/products/detail/63387dac3c0ddcecc31f3289",
+        "brand": "fendi",
+        "price": "$43.23",
+        "image": "https://source.unsplash.com/random/200x200?sig=97"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daca592f3e539712a3c",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac41bce1605e8d059d",
+        "title": "aute ea deserunt eiusmod Dresses",
+        "url": "localhost/products/detail/63387dac41bce1605e8d059d",
+        "brand": "cartier",
+        "price": "$40.81",
+        "image": "https://source.unsplash.com/random/200x200?sig=91"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac06e6502359e86b1e",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac87b7d044f31111c1",
+        "title": "nisi laboris eiusmod elit Tops",
+        "url": "localhost/products/detail/63387dac87b7d044f31111c1",
+        "brand": "zara",
+        "price": "$22.25",
+        "image": "https://source.unsplash.com/random/200x200?sig=99"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387daccbc1f84d192538b6",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dac3cfa6645f90c74ce",
+        "title": "quis proident Jeans",
+        "url": "localhost/products/detail/63387dac3cfa6645f90c74ce",
+        "brand": "zara",
+        "price": "$65.76",
+        "image": "https://source.unsplash.com/random/200x200?sig=83"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac8d661ed1f5e74e7e",
+        "title": "Dresses",
+        "url": "localhost/collection/Dresses"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green drop-top",
+        "url": "localhost/suggestion/green-drop-top"
+      },
+      "product": {
+        "id": "63387dac41b7ce76917d1083",
+        "title": "eiusmod sit Dresses",
+        "url": "localhost/products/detail/63387dac41b7ce76917d1083",
+        "brand": "cartier",
+        "price": "$24.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=10"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacb542a9b4ed01fff1",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dac584911d168c2254c",
+        "title": "est est et pariatur Jeans",
+        "url": "localhost/products/detail/63387dac584911d168c2254c",
+        "brand": "zara",
+        "price": "$73",
+        "image": "https://source.unsplash.com/random/200x200?sig=75"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace0ba8a18d5020b6e",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dac139b07849e156f19",
+        "title": "dolor non Tops",
+        "url": "localhost/products/detail/63387dac139b07849e156f19",
+        "brand": "zara",
+        "price": "$25.26",
+        "image": "https://source.unsplash.com/random/200x200?sig=100"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac9467c2cadbbaa91e",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac65f3c3bd8f5d5d6d",
+        "title": "velit ut Intimates",
+        "url": "localhost/products/detail/63387dac65f3c3bd8f5d5d6d",
+        "brand": "uniqlo",
+        "price": "$27.61",
+        "image": "https://source.unsplash.com/random/200x200?sig=33"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacf4189fb6f7da8728",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dac0c6b3697aedecbe5",
+        "title": "deserunt ut id Tops",
+        "url": "localhost/products/detail/63387dac0c6b3697aedecbe5",
+        "brand": "uniqlo",
+        "price": "$31.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=76"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac9fd3e66319ab9410",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red t-shirt",
+        "url": "localhost/suggestion/red-t-shirt"
+      },
+      "product": {
+        "id": "63387dac6a5941b574f855b7",
+        "title": "anim aliqua Autumn",
+        "url": "localhost/products/detail/63387dac6a5941b574f855b7",
+        "brand": "uniqlo",
+        "price": "$30.4",
+        "image": "https://source.unsplash.com/random/200x200?sig=72"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacaa7d7f8cce8293e1",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver drop-top",
+        "url": "localhost/suggestion/silver-drop-top"
+      },
+      "product": {
+        "id": "63387dac9d0d6cf4cdaae40e",
+        "title": "tempor qui aliquip Intimates",
+        "url": "localhost/products/detail/63387dac9d0d6cf4cdaae40e",
+        "brand": "hermes",
+        "price": "$32.13",
+        "image": "https://source.unsplash.com/random/200x200?sig=28"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac93762acf99270470",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue drop-top",
+        "url": "localhost/suggestion/blue-drop-top"
+      },
+      "product": {
+        "id": "63387dac6ab61f817fc33655",
+        "title": "ipsum labore amet officia Tops",
+        "url": "localhost/products/detail/63387dac6ab61f817fc33655",
+        "brand": "fendi",
+        "price": "$72.19",
+        "image": "https://source.unsplash.com/random/200x200?sig=28"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac0c0a72de208bd8c6",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver long",
+        "url": "localhost/suggestion/silver-long"
+      },
+      "product": {
+        "id": "63387dac74a737a5dba2a665",
+        "title": "duis veniam elit Tops",
+        "url": "localhost/products/detail/63387dac74a737a5dba2a665",
+        "brand": "uniqlo",
+        "price": "$37.18",
+        "image": "https://source.unsplash.com/random/200x200?sig=32"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac261efb671fbaae70",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green long",
+        "url": "localhost/suggestion/green-long"
+      },
+      "product": {
+        "id": "63387dacf363452108f43027",
+        "title": "exercitation cupidatat enim Jeans",
+        "url": "localhost/products/detail/63387dacf363452108f43027",
+        "brand": "hermes",
+        "price": "$70.79",
+        "image": "https://source.unsplash.com/random/200x200?sig=82"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac6328526d0c67a721",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green long",
+        "url": "localhost/suggestion/green-long"
+      },
+      "product": {
+        "id": "63387dac7a1d0509f67782d1",
+        "title": "id ea culpa elit Jeans",
+        "url": "localhost/products/detail/63387dac7a1d0509f67782d1",
+        "brand": "fendi",
+        "price": "$31.05",
+        "image": "https://source.unsplash.com/random/200x200?sig=88"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacdab27cc3a24fcae0",
+        "title": "Jeans",
+        "url": "localhost/collection/Jeans"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue dress",
+        "url": "localhost/suggestion/blue-dress"
+      },
+      "product": {
+        "id": "63387dac37c6f4abdcfbaea6",
+        "title": "magna pariatur in ad Tops",
+        "url": "localhost/products/detail/63387dac37c6f4abdcfbaea6",
+        "brand": "fendi",
+        "price": "$25.15",
+        "image": "https://source.unsplash.com/random/200x200?sig=35"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac4ddbd5d0e2245ba6",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "red",
+        "term": "red long",
+        "url": "localhost/suggestion/red-long"
+      },
+      "product": {
+        "id": "63387dacd371dc8f723e8d20",
+        "title": "ullamco eiusmod eu duis Tops",
+        "url": "localhost/products/detail/63387dacd371dc8f723e8d20",
+        "brand": "fendi",
+        "price": "$16.84",
+        "image": "https://source.unsplash.com/random/200x200?sig=77"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac5c1e07a5af36f3e3",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black drop-top",
+        "url": "localhost/suggestion/black-drop-top"
+      },
+      "product": {
+        "id": "63387dacd17d62aa1b0773f5",
+        "title": "amet adipisicing quis Autumn",
+        "url": "localhost/products/detail/63387dacd17d62aa1b0773f5",
+        "brand": "zara",
+        "price": "$59.51",
+        "image": "https://source.unsplash.com/random/200x200?sig=92"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dacfbfe8c197093ee97",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green long",
+        "url": "localhost/suggestion/green-long"
+      },
+      "product": {
+        "id": "63387dac99f1dab4f9b53ad0",
+        "title": "proident mollit commodo aute Autumn",
+        "url": "localhost/products/detail/63387dac99f1dab4f9b53ad0",
+        "brand": "fendi",
+        "price": "$26.31",
+        "image": "https://source.unsplash.com/random/200x200?sig=19"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac360cf961e9d8f316",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black long",
+        "url": "localhost/suggestion/black-long"
+      },
+      "product": {
+        "id": "63387dac49447da7519f67a5",
+        "title": "commodo ea Jeans",
+        "url": "localhost/products/detail/63387dac49447da7519f67a5",
+        "brand": "hermes",
+        "price": "$45.79",
+        "image": "https://source.unsplash.com/random/200x200?sig=81"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dace3a7eedbb1f13c9f",
+        "title": "Tops",
+        "url": "localhost/collection/Tops"
+      },
+      "suggestionWord": {
+        "color": "blue",
+        "term": "blue t-shirt",
+        "url": "localhost/suggestion/blue-t-shirt"
+      },
+      "product": {
+        "id": "63387dac4922854a44f95f0c",
+        "title": "sint nisi Dresses",
+        "url": "localhost/products/detail/63387dac4922854a44f95f0c",
+        "brand": "uniqlo",
+        "price": "$37.74",
+        "image": "https://source.unsplash.com/random/200x200?sig=5"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac1c810007ebf3a1e3",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "silver",
+        "term": "silver dress",
+        "url": "localhost/suggestion/silver-dress"
+      },
+      "product": {
+        "id": "63387dace7e29b08c6f1bf53",
+        "title": "mollit in quis Autumn",
+        "url": "localhost/products/detail/63387dace7e29b08c6f1bf53",
+        "brand": "uniqlo",
+        "price": "$29.78",
+        "image": "https://source.unsplash.com/random/200x200?sig=29"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac35b81e1c1b0e394b",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green drop-top",
+        "url": "localhost/suggestion/green-drop-top"
+      },
+      "product": {
+        "id": "63387dacc9728a936e02f8d4",
+        "title": "velit enim Intimates",
+        "url": "localhost/products/detail/63387dacc9728a936e02f8d4",
+        "brand": "fendi",
+        "price": "$20.91",
+        "image": "https://source.unsplash.com/random/200x200?sig=28"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac0cc852272752218f",
+        "title": "Intimates",
+        "url": "localhost/collection/Intimates"
+      },
+      "suggestionWord": {
+        "color": "black",
+        "term": "black t-shirt",
+        "url": "localhost/suggestion/black-t-shirt"
+      },
+      "product": {
+        "id": "63387dac450edd840d774793",
+        "title": "nostrud est proident est Dresses",
+        "url": "localhost/products/detail/63387dac450edd840d774793",
+        "brand": "hermes",
+        "price": "$78.8",
+        "image": "https://source.unsplash.com/random/200x200?sig=95"
+      }
+    },
+    {
+      "collection": {
+        "id": "63387dac44f8915aa65c95cd",
+        "title": "Autumn",
+        "url": "localhost/collection/Autumn"
+      },
+      "suggestionWord": {
+        "color": "green",
+        "term": "green dress",
+        "url": "localhost/suggestion/green-dress"
+      },
+      "product": {
+        "id": "63387dac6fd0606e4f896c35",
+        "title": "non ex sunt Tops",
+        "url": "localhost/products/detail/63387dac6fd0606e4f896c35",
+        "brand": "uniqlo",
+        "price": "$65.91",
+        "image": "https://source.unsplash.com/random/200x200?sig=20"
+      }
+    }
+  ]
